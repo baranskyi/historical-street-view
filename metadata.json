@@ -1,0 +1,5 @@
+{
+  "name": "Historical Street View Generator",
+  "description": "Upload a historical or fantasy map, place a marker to indicate your location and direction, and see what it would look like to stand there. This app uses AI to generate a street-view style image from your perspective on the map.",
+  "requestFramePermissions": []
+}
